@@ -1,0 +1,8 @@
+h1 {
+    color: whitesmoke;
+    background-color: slategray;
+    border: 5px solid beige;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
